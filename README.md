@@ -1,4 +1,4 @@
-[![Ansumana Badjie](./assets/github-banner.png)](https://ansu-dev.vercel.app/)
+[![Ansumana Badjie](./assets/ansu-badjie-github-banner.png)](https://ansu-dev.vercel.app/)
 <!--
 <a href="https://ansu-dev.vercel.app/"><img src="/assets/github-banner.png" alt="Ansumana Badjie"/><a/>
 **ansuofficial/ansuofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
