@@ -1,4 +1,4 @@
-<a href="https://ansu-dev.vercel.app/"><img src="" alt="Ansumana Badjie"/><a/>
+<a href="https://ansu-dev.vercel.app/"><img src="/assets/github-banner.png" alt="Ansumana Badjie"/><a/>
 
 <!--
 **ansuofficial/ansuofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
